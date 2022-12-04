@@ -1,5 +1,5 @@
 # Class Diagram
-<img src="../FurnitureFactory/img/classDiagram.png" alt="classDiagram" width="450"/>
+<img src="../FurnitureFactory/img/classDiagram.png" alt="classDiagram" width="1000"/>
 
 
 Objectives:
