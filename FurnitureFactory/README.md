@@ -1,5 +1,6 @@
 # Class Diagram
-![](/img/classDiagram.png)
+<img src="../FurnitureFactory/img/classDiagram.png" alt="classDiagram" width="450"/>
+
 
 Objectives:
 - Complete FurnitureOrder.java to make all test cases passed
