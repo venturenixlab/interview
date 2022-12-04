@@ -1,11 +1,11 @@
 # Class Diagram
-<img src="../FurnitureFactory/img/classDiagram.png" alt="classDiagram" width="1000"/>
+<img src="../FurnitureFactory/img/classDiagram.png" alt="classDiagram" width="800"/>
 
 
-Objectives:
+# Objectives
 - Complete FurnitureOrder.java to make all test cases passed
 
-Commands:
+# Commands
 - mvn clean
   - Clear target folder
 - mvn clean compile
