@@ -7,13 +7,13 @@ import java.util.LinkedHashMap;
  * {@link #accounts}: List&lt;Long, Account&gt;
  */
 public class Bank {
-	private LinkedHashMap<Long, Account> accounts;
+	private LinkedHashMap<Long, Account> accounts; // object reference
 
 	public Bank() {
 		// complete the function
 	}
 
-	private Account getAccount(Long accountNumber) {
+	public Account getAccount(Long accountNumber) {
 		// complete the function
 		return null;
 	}
@@ -35,7 +35,7 @@ public class Bank {
 
 	public double getBalance(Long accountNumber) {
 		// complete the function
-		return -1;
+		return -1.0;
 	}
 
 	public void credit(Long accountNumber, double amount) {
@@ -44,6 +44,6 @@ public class Bank {
 
 	public boolean debit(Long accountNumber, double amount) {
 		// complete the function
-		return true;
+		return false;
 	}
 }

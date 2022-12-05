@@ -29,9 +29,9 @@ public class PrivateUnitTest {
 
     @Test
     public void _09_placeOrders() {
-        furnitureFactory.addToOrder(Furniture.TABLE, 6);
-        furnitureFactory.addToOrder(Furniture.CHAIR, 10);
-        furnitureFactory.addToOrder(Furniture.COUCH, 5);
+        furnitureFactory.addToOrder(Furniture.TABLE, 6); // 6 * 250
+        furnitureFactory.addToOrder(Furniture.CHAIR, 10); // 10 * 100
+        furnitureFactory.addToOrder(Furniture.COUCH, 5); // 5 * 500
 
         assertEquals(5000.0f, furnitureFactory.getTotalOrderCost());
     }

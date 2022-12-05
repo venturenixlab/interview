@@ -27,7 +27,7 @@ public class Transaction {
 
 	public double getBalance() {
 		// complete the function
-		return -1;
+		return -1.0;
 	}
 
 	public void credit(double amount) {

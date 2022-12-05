@@ -17,4 +17,7 @@ public abstract class AccountHolder {
 		// complete the function
 		return -1;
 	}
+
+	// public abstract int getSomething();
+
 }

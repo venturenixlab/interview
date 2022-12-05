@@ -32,21 +32,22 @@ public abstract class Account {
 
 	public double getBalance() {
 		// complete the function
-		return -1;
+		return -1.0;
 	}
 
 	public double getPin() {
 		// complete the function
-		return -1;
+		return -1.0;
 	}
 
 	public Long getAccountNumber() {
 		// complete the function
-		return -1L;
+		return this.accountNumber;
 	}
 
 	public void creditAccount(double amount) {
 		// complete the function
+		// BigDecimal
 	}
 
 	public boolean debitAccount(double amount) {
