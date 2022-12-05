@@ -3,7 +3,7 @@
 
 
 # Objectives
-- Complete FurnitureOrder.java to make all test cases passed
+- Complete Furniture.java & FurnitureOrder.java to make all test cases passed
 
 # Commands
 - mvn clean
